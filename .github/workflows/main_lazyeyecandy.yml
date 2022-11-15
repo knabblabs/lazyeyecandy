@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'lazyeyecandy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3756F95DEE974C419706DD33AEF296FC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D94C162BEAEF494EB1D3005508C6AF78 }}
